@@ -1,4 +1,4 @@
-# carrito-vue
+# carrito-vue3 con Bootstrap 4.5
 
 ## Project setup
 ```
